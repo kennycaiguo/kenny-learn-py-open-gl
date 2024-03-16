@@ -1,0 +1,3 @@
+这个库在安装的时候叫pyopengl，安装完毕后用pip list参考，仍然叫PyOpenGL,但是在编程的时候你
+import PyOpenGL，会报错说没有这个库，因为编程使用的时候它叫做OpenGL。应该使用
+from OpenGL.库 import *，这个库可以是GL,GLU,GLUT等等
