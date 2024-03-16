@@ -2,3 +2,5 @@
 2.win32ui pip安装时叫做pypiwin32，安装好后叫做win32ui
 3.PyOpenGL pip安装时叫做PyOpenGL，安装好后叫做OpenGL
 4.scikit-learn 安装时叫做scikit-learn，安装好后叫做sklearn
+5.opencv-python  安装时叫做opencv-python，安装好后叫做cv2
+6.pytorch 安装时叫做torch/pytorch，安装好后叫做torch
